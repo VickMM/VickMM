@@ -19,5 +19,15 @@
 </div>
 
 
-<!--  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=VickMM&layout=compact&langs_count=168theme=dracula"/>
+# Tecnologias que já trabalhei
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)
+
+# Uso do GitHub
+![VickMM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VickMM&theme=dracula&show_icons=true&count_private=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickMM&layout=compact&theme=dracula)
+
+
 
