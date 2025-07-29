@@ -1,7 +1,6 @@
-## Olá! Sou a Victória 
+## Olá! Sou a Victória 💕
 
-- 🔭 Trabalho com Backend 
-- 🌱 Estudando C++
+- 🌱 Estudando C++ e Python
 - 😄 Pronouns: ela/dela
 https://github-readme-stats.vercel.app/api?username=VickMM
 
