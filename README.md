@@ -2,7 +2,6 @@
 
 - 🌱 Estudando C++ e Python
 - 😄 Pronouns: ela/dela
-https://github-readme-stats.vercel.app/api?username=VickMM
 
 <div>
   <a href="https://beacons.ai/VickMM">
