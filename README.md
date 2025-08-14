@@ -1,6 +1,6 @@
 ## Olá! Sou a Victória 💖
 
-- 🌱 Estudando C++ e Python
+- 🌱 Estudando C++, Python e Java
 - 😄 Pronomes: ela/dela
 
 
