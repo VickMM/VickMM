@@ -1,7 +1,6 @@
 ## Olá! Sou a Victória 💖
 
-- 🌱 Aprofundando os estudos em C++
-- 😄 Pronomes: ela/dela
+- 🌱 Aprofundando os estudos em Python e SQL.
 
 
 # Linguagens 🖥️
